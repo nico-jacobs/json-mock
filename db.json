@@ -27,55 +27,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "vote": [
-    {
-      "11025": [
-        {
-          "value": 1,
-          "state": "true"
-        },
-        {
-          "value": 2,
-          "state": "true"
-        },
-        {
-          "value": 3,
-          "state": "true"
-        },
-        {
-          "value": 4,
-          "state": "true"
-        },
-        {
-          "value": 5,
-          "state": "true"
-        }
-      ]
-    },
-    {
-      "11026": [
-        {
-          "value": 1,
-          "state": "true"
-        },
-        {
-          "value": 2,
-          "state": "true"
-        },
-        {
-          "value": 3,
-          "state": "true"
-        },
-        {
-          "value": 4,
-          "state": "true"
-        },
-        {
-          "value": 5,
-          "state": "true"
-        }
-      ]
-    }
-  ]
+  }
 }
