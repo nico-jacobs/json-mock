@@ -28,62 +28,48 @@
   "profile": {
     "name": "typicode"
   },
-  "vote": [
+  "11025": [
     {
-      "id": "11025/1",
-      "1": [
-        {
-          "state": "true"
-        }
-      ],
-      "2": [
-        {
-          "state": "true"
-        }
-      ],
-      "3": [
-        {
-          "state": "true"
-        }
-      ],
-      "4": [
-        {
-          "state": "true"
-        }
-      ],
-      "5": [
-        {
-          "state": "true"
-        }
-      ]
+      "id": 1,
+      "state": "true"
     },
     {
-      "id": "11026/1",
-      "1": [
-        {
-          "state": "true"
-        }
-      ],
-      "2": [
-        {
-          "state": "true"
-        }
-      ],
-      "3": [
-        {
-          "state": "true"
-        }
-      ],
-      "4": [
-        {
-          "state": "true"
-        }
-      ],
-      "5": [
-        {
-          "state": "true"
-        }
-      ]
+      "id": 2,
+      "state": "true"
+    },
+    {
+      "id": 3,
+      "state": "true"
+    },
+    {
+      "id": 4,
+      "state": "true"
+    },
+    {
+      "id": 5,
+      "state": "true"
+    }
+  ],
+  "11026": [
+    {
+      "id": 1,
+      "state": "true"
+    },
+    {
+      "id": 2,
+      "state": "true"
+    },
+    {
+      "id": 3,
+      "state": "true"
+    },
+    {
+      "id": 4,
+      "state": "true"
+    },
+    {
+      "id": 5,
+      "state": "true"
     }
   ]
 }
