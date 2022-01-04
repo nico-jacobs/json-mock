@@ -48,6 +48,10 @@
     {
       "id": 5,
       "state": "true"
+    },
+    {
+      "subscribed": "subscribeState",
+      "state": "true"
     }
   ],
   "11026": [
@@ -69,6 +73,10 @@
     },
     {
       "id": 5,
+      "state": "true"
+    },
+    {
+      "subscribed": "subscribeState",
       "state": "true"
     }
   ]
