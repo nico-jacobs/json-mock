@@ -21,16 +21,12 @@
       "state": "true"
     },
     {
-      "subscribe": [
-        {
-          "state": true
-        }
-      ],
-      "unsubscribe": [
-        {
-          "state": true
-        }
-      ]
+      "id": "subscribe",
+      "state": "true"
+    },
+    {
+      "id": "unsubscribe",
+      "state": "true"
     }
   ],
   "11026": [
@@ -55,16 +51,12 @@
       "state": "true"
     },
     {
-      "subscribe": [
-        {
-          "state": true
-        }
-      ],
-      "unsubscribe": [
-        {
-          "state": true
-        }
-      ]
+      "id": "subscribe",
+      "state": "true"
+    },
+    {
+      "id": "unsubscribe",
+      "state": "true"
     }
   ],
   "11027": [
@@ -89,16 +81,12 @@
       "state": "true"
     },
     {
-      "subscribe": [
-        {
-          "state": true
-        }
-      ],
-      "unsubscribe": [
-        {
-          "state": true
-        }
-      ]
+      "id": "subscribe",
+      "state": "true"
+    },
+    {
+      "id": "unsubscribe",
+      "state": "true"
     }
   ]
 }
