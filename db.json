@@ -21,8 +21,16 @@
       "state": "true"
     },
     {
-      "id": "subscribeState",
-      "state": "true"
+      "subscribe": [
+        {
+          "state": true
+        }
+      ],
+      "unsubscribe": [
+        {
+          "state": true
+        }
+      ]
     }
   ],
   "11026": [
@@ -47,8 +55,16 @@
       "state": "true"
     },
     {
-      "id": "subscribeState",
-      "state": "false"
+      "subscribe": [
+        {
+          "state": true
+        }
+      ],
+      "unsubscribe": [
+        {
+          "state": true
+        }
+      ]
     }
   ],
   "11027": [
@@ -73,8 +89,16 @@
       "state": "true"
     },
     {
-      "id": "subscribeState",
-      "state": "false"
+      "subscribe": [
+        {
+          "state": true
+        }
+      ],
+      "unsubscribe": [
+        {
+          "state": true
+        }
+      ]
     }
   ]
 }
