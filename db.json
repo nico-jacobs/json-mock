@@ -2,91 +2,91 @@
   "11025": [
     {
       "id": 1,
-      "state": "true"
+      "state": true
     },
     {
       "id": 2,
-      "state": "true"
+      "state": true
     },
     {
       "id": 3,
-      "state": "true"
+      "state": true
     },
     {
       "id": 4,
-      "state": "true"
+      "state": true
     },
     {
       "id": 5,
-      "state": "true"
+      "state": true
     },
     {
       "id": "subscribe",
-      "state": "true"
+      "state": true
     },
     {
       "id": "unsubscribe",
-      "state": "true"
+      "state": true
     }
   ],
   "11026": [
     {
       "id": 1,
-      "state": "true"
+      "state": true
     },
     {
       "id": 2,
-      "state": "true"
+      "state": true
     },
     {
       "id": 3,
-      "state": "true"
+      "state": true
     },
     {
       "id": 4,
-      "state": "true"
+      "state": true
     },
     {
       "id": 5,
-      "state": "true"
+      "state": true
     },
     {
       "id": "subscribe",
-      "state": "true"
+      "state": true
     },
     {
       "id": "unsubscribe",
-      "state": "true"
+      "state": true
     }
   ],
   "11027": [
     {
       "id": 1,
-      "state": "true"
+      "state": true
     },
     {
       "id": 2,
-      "state": "true"
+      "state": true
     },
     {
       "id": 3,
-      "state": "true"
+      "state": true
     },
     {
       "id": 4,
-      "state": "true"
+      "state": true
     },
     {
       "id": 5,
-      "state": "true"
+      "state": true
     },
     {
       "id": "subscribe",
-      "state": "true"
+      "state": true
     },
     {
       "id": "unsubscribe",
-      "state": "true"
+      "state": true
     }
   ]
 }
